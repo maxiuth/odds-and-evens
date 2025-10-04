@@ -1,0 +1,17 @@
+body {
+  padding: 1rem;
+}
+
+.bank output {
+  border: 2px solid black;
+  border-radius: 0.5rem;
+  min-height: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1ch;
+  padding: 1.5ch;
+}
+
+h1 {
+  color: blue;
+}
